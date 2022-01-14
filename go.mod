@@ -1,4 +1,4 @@
-module github.com/fatedier/frp
+module github.com/HaidyCao/frp_0351
 
 go 1.15
 
